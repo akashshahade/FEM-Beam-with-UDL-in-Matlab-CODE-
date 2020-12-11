@@ -1,12 +1,5 @@
 %-------------------------------------------------------------------%
 % Software by -  Akash S. Shahade
-%                MT20CDM006 (25075)
-%                M.Tech First Year CadCam
-%                VNIT,Nagpur
-%
-% Faculty Advisor – Prof. A. Chatterjee
-%                   Prof. M.S.Kotambkar
-%
 % Title - Program for FE Analysis of Beam.
 %-------------------------------------------------------------------%
 clc;clear;
