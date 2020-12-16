@@ -1,3 +1,5 @@
+!*Ansys Script for solving the same problem in ANSYS APDL.
+
 /PREP7  
 !*  
 ET,1,BEAM188
